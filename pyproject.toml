@@ -5,7 +5,7 @@ description = "A template uv project with care-and-maintenance CI pre-wired."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "requests>=2.32",
+    "requests>=2.34.2",
 ]
 
 [dependency-groups]
